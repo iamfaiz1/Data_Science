@@ -1,0 +1,1 @@
+# This repository is for the practice code of what i learned in my classes. Just pushing here for future referene and for sharing purpose for anyone who wants to lean basics of Data Science using Python
